@@ -5,6 +5,7 @@ Release of Datasets and R Scripts used to analyze and produce figures to accompa
 > *see data description below*
 
 ## Citation
+Leme da Cunha, N., Chacoff, N. P., Sáez, A., Schmucki, R., Galetto, L., Devoto, M., Carrasco, J., Mazzei, M. P., Castillo, S. E., Palacios, T. P., Vesprini, J. L., Agostini, K., Saraiva, A. M., Woodcock, B., Ollerton, J., & Aizen, M. A. (2023). Soybean dependence on biotic pollination decreases with latitude (Version 1.0.0) [Data and Computer code]. https://doi.org/10.5281/zenodo.TBC
 
 
 ## Highlights
