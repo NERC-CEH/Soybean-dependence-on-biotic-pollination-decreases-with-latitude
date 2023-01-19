@@ -2,6 +2,8 @@
 
 Release of Datasets and R Scripts used to analyze and produce figures to accompany the acceptance of the paper 'Soybean dependence on biotic pollination decreases with latitude' in Agriculture, Ecosystems & Environment.
 
+> data description below
+
 ## Highlights
  - In the absence of pollinators, soybean yield decreases between 0 and ~50%.
  - Variation in pollinator dependence (PD) was found to be structured latitudinally.
@@ -17,38 +19,37 @@ Identifying large-scale patterns of variation in pollinator dependence (PD) in c
 
 ## Content
 
-The dataset consists in two files
+### The dataset consists in two files
 
-- 1 "[data] Cunha et al. MS_soybean.xlsx", which is an excel file containing two sheets,
-	"data" and "data_map". All available data for running the models in the R script 
-	"[R script] Cunha et al. MS_soybean.R"
+1 **[data] Cunha et al. MS_soybean.xlsx** is an excel file with two sheets,
+	**data** and **data_map**. These sheets contain the data used in the models defined in the R script 
+	**[R script] Cunha et al. MS_soybean.R**
 
-  - 1.1. The "data" sheet contains the variables:
-     - Value = log_ratios
-     - Lat = latitude in decimal degrees
-     - Variable = yield component
-     - Treatment = treatment type for comparing pollinator dependence
-     - Reference_Data_owner = study ID where where the data was obtained
-     - Site = site within study where each field experiment was performed
+  - 1.1 The **data** sheet contains the variables:
+  	* Value = log_ratios
+     	* Lat = latitude in decimal degrees
+     	* Variable = yield component
+     	* Treatment = treatment type for comparing pollinator dependence
+     	* Reference_Data_owner = study ID where where the data was obtained
+     	* Site = site within study where each field experiment was performed
+  
+  - 1.2 The **data_map** sheet contains information used for plotting the geographical distribution of the used studies:
+	* Reference_Data_owner = study ID where where the data was obtained
+	* Country = country where the study was performed
+	* Province = province where the study was performed
+	* Locality/Farm = locality where the study was performed
+	* Lat = latitude in decimal degrees
+	* Long = longitude in decimal degrees
 
-	 - 1.2. The "data_map" sheet contains information necessary for plotting the geographical distribution of the used studies:
-			 - Reference_Data_owner = study ID where where the data was obtained
-			 - Country = country where the study was performed
-			 - Province = province where the study was performed
-			 - Locality/Farm = locality where the study was performed
-			 - Lat = latitude in decimal degrees
-			 - Long = longitude in decimal degrees
-
-
-- 2 "[data] Cunha et al. MS_soybean [date_photoperiod].csv", which is an coma separated file, 
-	containing the necessary information to be used in the R script 
-	"[R script] Cunha et al. ProcB - gee_temp_ts_extract.R" and make Figure S2.
+2 **[data] Cunha et al. MS_soybean [date_photoperiod].csv** is an coma separated file that 
+	contains the information used in the R script **[R script] Cunha et al. ProcB - gee_temp_ts_extract.R** and produce Figure S2.
+  
   - 2.1 The dataset contains the following variables:
-			 - study_ID = study ID number where where the data was obtained
-			 - study_ref = study ID where where the data was obtained
-			 - latitude = latitude in decimal degrees
-			 - longitude = longitude in decimal degrees
-			 - date1 = date of the sowing or flowering when the experiment was done
-			 - date2 = a second date, when availablee, of the sowing or flowering when the experiment was done
-			 - event: if the date was related to sowing of seeds or flowering of soybean. 
+	* study_ID = study ID number where where the data was obtained
+	* study_ref = study ID where where the data was obtained
+	* latitude = latitude in decimal degrees
+	* longitude = longitude in decimal degrees
+	* date1 = date of the sowing or flowering when the experiment was done
+	* date2 = a second date, when availablee, of the sowing or flowering when the experiment was done
+	* event: if the date was related to sowing of seeds or flowering of soybean. 
 
