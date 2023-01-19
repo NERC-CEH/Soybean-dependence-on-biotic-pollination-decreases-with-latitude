@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below"
 authors:
-- family-names: "Leme da Cunha"
-  given-names: "Nicolay"
+- family-names: "Cunha"
+  given-names: "Nicolay L."
   orcid: "https://orcid.org/0000-0001-5509-6757"
 - family-names: "Chacoff"
   given-names: "Natacha P."
