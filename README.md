@@ -25,9 +25,9 @@ Identifying large-scale patterns of variation in pollinator dependence (PD) in c
 
 ### The dataset consists in two files
 
-1 - **[data] Cunha et al. MS_soybean.xlsx** is an excel file with two sheets,
+1 - [\[data\] Cunha et al. MS_soybean.xlsx](https://github.com/NERC-CEH/Soybean-dependence-on-biotic-pollination-decreases-with-latitude/blob/main/%5Bdata%5D%20Cunha%20et%20al.%20MS_soybean.xlsx) is an excel file with two sheets,
 	**data** and **data_map**. These sheets contain the data used in the models defined in the R script 
-	**[R script] Cunha et al. MS_soybean.R**
+	[\[R script\] Cunha et al. MS_soybean.R](https://github.com/NERC-CEH/Soybean-dependence-on-biotic-pollination-decreases-with-latitude/blob/main/%5BR%20script%5D%20Cunha%20et%20al.%20MS_soybean.R).
 
   - 1.1 The **data** sheet contains the variables:
    	* Value = log_ratios
@@ -46,8 +46,8 @@ Identifying large-scale patterns of variation in pollinator dependence (PD) in c
 	* Lat = latitude in decimal degrees
 	* Long = longitude in decimal degrees
 
-2 - **[data] Cunha et al. MS_soybean [date_photoperiod].csv** is an coma separated file that 
-	contains the information used in the R script **[R script] Cunha et al. ProcB - gee_temp_ts_extract.R** and produce Figure S2.
+2 - [\[data\] Cunha et al. MS_soybean [date_photoperiod].csv](https://github.com/NERC-CEH/Soybean-dependence-on-biotic-pollination-decreases-with-latitude/blob/main/%5Bdata%5D%20Cunha%20et%20al.%20MS_soybean%20%5Bdate_photoperiod%5D.csv) is an coma separated file that 
+	contains the information used in the R script [\[R script\] Cunha et al. ProcB - gee_temp_ts_extract.R](https://github.com/NERC-CEH/Soybean-dependence-on-biotic-pollination-decreases-with-latitude/blob/main/%5BR%20script%5D%20Cunha%20et%20al.%20AGEE%20-%20gee_temp_ts_extract.R) and produce Figure S2.
   
   - 2.1 The dataset contains the following variables:
 	
