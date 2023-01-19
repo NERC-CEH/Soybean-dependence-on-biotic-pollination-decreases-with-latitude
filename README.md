@@ -25,19 +25,20 @@ Identifying large-scale patterns of variation in pollinator dependence (PD) in c
 
 ### The dataset consists in two files
 
-1 **[data] Cunha et al. MS_soybean.xlsx** is an excel file with two sheets,
+1 - **[data] Cunha et al. MS_soybean.xlsx** is an excel file with two sheets,
 	**data** and **data_map**. These sheets contain the data used in the models defined in the R script 
 	**[R script] Cunha et al. MS_soybean.R**
 
   - 1.1 The **data** sheet contains the variables:
-  	* Value = log_ratios
-     	* Lat = latitude in decimal degrees
-     	* Variable = yield component
-     	* Treatment = treatment type for comparing pollinator dependence
-     	* Reference_Data_owner = study ID where where the data was obtained
-     	* Site = site within study where each field experiment was performed
+   	* Value = log_ratios
+   	* Lat = latitude in decimal degrees
+   	* Variable = yield component
+   	* Treatment = treatment type for comparing pollinator dependence
+   	* Reference_Data_owner = study ID where where the data was obtained
+   	* Site = site within study where each field experiment was performed
   
   - 1.2 The **data_map** sheet contains information used for plotting the geographical distribution of the used studies:
+	
 	* Reference_Data_owner = study ID where where the data was obtained
 	* Country = country where the study was performed
 	* Province = province where the study was performed
@@ -45,10 +46,11 @@ Identifying large-scale patterns of variation in pollinator dependence (PD) in c
 	* Lat = latitude in decimal degrees
 	* Long = longitude in decimal degrees
 
-2 **[data] Cunha et al. MS_soybean [date_photoperiod].csv** is an coma separated file that 
+2 - **[data] Cunha et al. MS_soybean [date_photoperiod].csv** is an coma separated file that 
 	contains the information used in the R script **[R script] Cunha et al. ProcB - gee_temp_ts_extract.R** and produce Figure S2.
   
   - 2.1 The dataset contains the following variables:
+	
 	* study_ID = study ID number where where the data was obtained
 	* study_ref = study ID where where the data was obtained
 	* latitude = latitude in decimal degrees
