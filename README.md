@@ -1,6 +1,6 @@
 # Soybean dependence on biotic pollination decreases with latitude
 
-Release of Datasets and R Scripts used to analyze and produce figures to accompany the acceptance of the paper 'Soybean dependence on biotic pollination decreases with latitude' in Agriculture, Ecosystems & Environment.
+Release of Datasets and R Scripts used to analyse and produce figures to accompany the acceptance of the paper 'Soybean dependence on biotic pollination decreases with latitude' in Agriculture, Ecosystems & Environment.
 
 > *see data description below*
 
@@ -34,12 +34,12 @@ Identifying large-scale patterns of variation in pollinator dependence (PD) in c
    	* Lat = latitude in decimal degrees
    	* Variable = yield component
    	* Treatment = treatment type for comparing pollinator dependence
-   	* Reference_Data_owner = study ID where where the data was obtained
-   	* Site = site within study where each field experiment was performed
+   	* Reference_Data_owner = study ID where the data was obtained
+   	* Site = site within the study where each field experiment was performed
   
   - 1.2 The **data_map** sheet contains information used for plotting the geographical distribution of the used studies:
 	
-	* Reference_Data_owner = study ID where where the data was obtained
+	* Reference_Data_owner = study ID where the data was obtained
 	* Country = country where the study was performed
 	* Province = province where the study was performed
 	* Locality/Farm = locality where the study was performed
@@ -47,15 +47,15 @@ Identifying large-scale patterns of variation in pollinator dependence (PD) in c
 	* Long = longitude in decimal degrees
 
 2 - [\[data\] Cunha et al. MS_soybean [date_photoperiod].csv](https://github.com/NERC-CEH/Soybean-dependence-on-biotic-pollination-decreases-with-latitude/blob/main/%5Bdata%5D%20Cunha%20et%20al.%20MS_soybean%20%5Bdate_photoperiod%5D.csv) is an coma separated file that 
-	contains the information used in the R script [\[R script\] Cunha et al. ProcB - gee_temp_ts_extract.R](https://github.com/NERC-CEH/Soybean-dependence-on-biotic-pollination-decreases-with-latitude/blob/main/%5BR%20script%5D%20Cunha%20et%20al.%20AGEE%20-%20gee_temp_ts_extract.R) and produce Figure S2.
+	contains the information used in the R script [\[R script\] Cunha et al. AGEE - gee_temp_ts_extract.R](https://github.com/NERC-CEH/Soybean-dependence-on-biotic-pollination-decreases-with-latitude/blob/main/%5BR%20script%5D%20Cunha%20et%20al.%20AGEE%20-%20gee_temp_ts_extract.R) and produce Figure S2.
   
   - 2.1 The dataset contains the following variables:
 	
-	* study_ID = study ID number where where the data was obtained
-	* study_ref = study ID where where the data was obtained
+	* study_ID = study ID number where the data was obtained
+	* study_ref = study ID where the data was obtained
 	* latitude = latitude in decimal degrees
 	* longitude = longitude in decimal degrees
 	* date1 = date of the sowing or flowering when the experiment was done
-	* date2 = a second date, when availablee, of the sowing or flowering when the experiment was done
-	* event: if the date was related to sowing of seeds or flowering of soybean. 
+	* date2 = a second date, when available, of the sowing or flowering when the experiment was done
+	* event: if the date was related to the sowing of seeds or flowering of soybean. 
 
