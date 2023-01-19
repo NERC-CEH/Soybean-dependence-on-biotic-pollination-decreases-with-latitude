@@ -2,7 +2,10 @@
 
 Release of Datasets and R Scripts used to analyze and produce figures to accompany the acceptance of the paper 'Soybean dependence on biotic pollination decreases with latitude' in Agriculture, Ecosystems & Environment.
 
-> data description below
+> *see data description below*
+
+## Citation
+
 
 ## Highlights
  - In the absence of pollinators, soybean yield decreases between 0 and ~50%.
