@@ -57,5 +57,4 @@ Identifying large-scale patterns of variation in pollinator dependence (PD) in c
 	* longitude = longitude in decimal degrees
 	* date1 = date of the sowing or flowering when the experiment was done
 	* date2 = a second date, when available, of the sowing or flowering when the experiment was done
-	* event: if the date was related to the sowing of seeds or flowering of soybean. 
-
+	* event: if the date was related to the sowing of seeds or flowering of soybean.
