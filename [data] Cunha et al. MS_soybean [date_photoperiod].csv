@@ -1,0 +1,152 @@
+study_ID,study_ref,latitude,longitude,date1,date2,event
+1,Blanco et al. (2020),39.01,-76.82,04/06/2019,02/07/2019,sowing
+1,Blanco et al. (2020),39.01,-76.82,04/06/2019,02/07/2019,sowing
+1,Blanco et al. (2020),39.01,-76.82,04/06/2019,02/07/2019,sowing
+2,Blettler et al. (2018),-31.9,-60.31,05/11/2010,02/11/2011,sowing
+2,Blettler et al. (2018),-31.9,-60.31,05/11/2010,02/11/2011,sowing
+2,Blettler et al. (2018),-31.9,-60.31,05/11/2010,02/11/2011,sowing
+2,Blettler et al. (2018),-31.9,-60.31,05/11/2010,02/11/2011,sowing
+2,Blettler et al. (2018),-31.9,-60.31,05/11/2010,02/11/2011,sowing
+2,Blettler et al. (2018),-31.9,-60.31,05/11/2010,02/11/2011,sowing
+3,Carrasco et al. (unpublished),-27.12,-64.4,30/01/2017,,flowering
+3,Carrasco et al. (unpublished),-27.12,-64.4,30/01/2017,,flowering
+3,Carrasco et al. (unpublished),-27.12,-64.4,30/01/2017,,flowering
+3,Carrasco et al. (unpublished),-26.99,-64.4,30/01/2017,,flowering
+3,Carrasco et al. (unpublished),-26.99,-64.4,30/01/2017,,flowering
+3,Carrasco et al. (unpublished),-26.99,-64.4,30/01/2017,,flowering
+3,Carrasco et al. (unpublished),-26.94,-64.4,30/01/2017,,flowering
+3,Carrasco et al. (unpublished),-26.94,-64.4,30/01/2017,,flowering
+3,Carrasco et al. (unpublished),-26.94,-64.4,30/01/2017,,flowering
+3,Carrasco et al. (unpublished),-26.82,-64.3,30/01/2017,,flowering
+3,Carrasco et al. (unpublished),-26.82,-64.3,30/01/2017,,flowering
+3,Carrasco et al. (unpublished),-26.82,-64.3,30/01/2017,,flowering
+3,Carrasco et al. (unpublished),-26.71,-64.2,30/01/2017,,flowering
+3,Carrasco et al. (unpublished),-26.71,-64.2,21/02/2018,,flowering
+3,Carrasco et al. (unpublished),-26.71,-64.2,27/02/2018,,flowering
+3,Carrasco et al. (unpublished),-26.71,-64.2,27/02/2018,,flowering
+3,Carrasco et al. (unpublished),-26.71,-64.2,27/02/2018,,flowering
+3,Carrasco et al. (unpublished),-26.71,-64.2,27/02/2018,,flowering
+3,Carrasco et al. (unpublished),-26.71,-64.2,27/02/2018,,flowering
+3,Carrasco et al. (unpublished),-26.71,-64.2,27/02/2018,,flowering
+3,Carrasco et al. (unpublished),-26.71,-64.2,27/02/2018,,flowering
+3,Carrasco et al. (unpublished),-26.35,-64.2,27/02/2018,,flowering
+3,Carrasco et al. (unpublished),-26.35,-64.2,27/02/2018,,flowering
+3,Carrasco et al. (unpublished),-26.35,-64.2,27/02/2018,,flowering
+3,Carrasco et al. (unpublished),-26.35,-64.2,25/01/2017,,flowering
+3,Carrasco et al. (unpublished),-26.35,-64.2,16/02/2016,,flowering
+3,Carrasco et al. (unpublished),-26.35,-64.2,25/02/2016,,flowering
+3,Carrasco et al. (unpublished),-26.35,-64.2,15/02/2018,,flowering
+3,Carrasco et al. (unpublished),-26.35,-64.2,15/02/2018,,flowering
+3,Carrasco et al. (unpublished),-26.35,-64.2,05/02/2017,,flowering
+3,Carrasco et al. (unpublished),-26.35,-64.2,19/02/2016,,flowering
+3,Carrasco et al. (unpublished),-26.35,-64.2,25/02/2016,,flowering
+3,Carrasco et al. (unpublished),-26.35,-64.2,15/02/2018,,flowering
+4,Chacoff et al. (unpublished),-26.72,-64.4,,,
+4,Chacoff et al. (unpublished),-26.72,-64.4,,,
+4,Chacoff et al. (unpublished),-26.72,-64.4,,,
+4,Chacoff et al. (unpublished),-26.72,-64.4,,,
+4,Chacoff et al. (unpublished),-26.72,-64.4,,,
+4,Chacoff et al. (unpublished),-26.72,-64.4,,,
+4,Chacoff et al. (unpublished),-26.67,-61.5,08/12/2018,,sowing
+5,Chiari et al. (2005),-23.4,-51.58,,,
+5,Chiari et al. (2005),-23.4,-51.58,,,
+5,Chiari et al. (2005),-23.4,-51.58,,,
+5,Chiari et al. (2005),-23.4,-51.58,,,
+6,Chiari et al. (2008),-23.18,-51.11,30/11/2003,,sowing
+6,Chiari et al. (2008),-23.18,-51.11,30/11/2003,,sowing
+6,Chiari et al. (2008),-23.18,-51.11,30/11/2003,,sowing
+6,Chiari et al. (2008),-23.18,-51.11,30/11/2003,,sowing
+6,Chiari et al. (2008),-23.18,-51.11,30/11/2003,,sowing
+7,Cunningham-Minnick et al. (2019),39.53,-84.72,22/07/2014,,flowering
+7,Cunningham-Minnick et al. (2019),39.53,-84.72,22/07/2014,,flowering
+7,Cunningham-Minnick et al. (2019),39.53,-84.72,22/07/2014,,flowering
+8,Devoto et al. (unpublished),-35.57,-61.13,27/11/2017,,sowing
+8,Devoto et al. (unpublished),-35.57,-61.13,27/11/2017,,sowing
+8,Devoto et al. (unpublished),-35.57,-61.13,15/12/2017,,sowing
+9,Erickson (1975),43.13,-89.13,,,
+10,Erickson (1975),43.13,-89.13,,,
+10,Erickson et al. (1978),36.2,-90.16,,,
+10,Erickson et al. (1978),36.2,-90.16,,,
+11,Finger (2018),-25.26,-53.57,22/09/2016,,sowing
+11,Finger (2018),-25.26,-53.57,22/09/2016,,sowing
+11,Finger (2018),-25.26,-53.57,22/09/2016,,sowing
+12,Hallman (1981),36.72,-97.5,03/06/1980,,sowing
+12,Hallman (1981),36.72,-97.5,03/06/1980,,sowing
+12,Hallman (1981),36.72,-97.5,03/06/1980,,sowing
+12,Hallman (1981),36.72,-97.5,03/06/1980,,sowing
+12,Hallman (1981),36.72,-97.5,03/06/1980,,sowing
+12,Hallman (1981),36.72,-97.5,03/06/1980,,sowing
+12,Hallman (1981),36.72,-97.5,03/06/1980,,sowing
+12,Hallman (1981),36.72,-97.5,03/06/1980,,sowing
+12,Hallman (1981),36.72,-97.5,03/06/1980,,sowing
+12,Hallman (1981),36.72,-97.5,03/06/1980,,sowing
+12,Hallman (1981),36.72,-97.5,03/06/1980,,sowing
+12,Hallman (1981),36.72,-97.5,03/06/1980,,sowing
+12,Hallman (1981),36.72,-97.5,03/06/1980,,sowing
+12,Hallman (1981),36.72,-97.5,03/06/1980,,sowing
+12,Hallman (1981),36.72,-97.5,03/06/1980,,sowing
+13,Jung (2014),-31.18,-53.58,14/12/2013,,sowing
+13,Jung (2014),-31.18,-53.58,14/12/2013,,sowing
+14,Kengni et al. (2015),7.5,-13.55,05/05/2012,12/05/2013,sowing
+14,Kengni et al. (2015),7.5,-13.55,05/05/2012,12/05/2013,sowing
+14,Kengni et al. (2015),7.5,-13.55,05/05/2012,12/05/2013,sowing
+15,Erickson (1975),43.13,-89.13,05/05/2012,12/05/2013,sowing
+15,Milfont et al. (2013),-5.13,-37.59,15/06/2009,,sowing
+15,Milfont et al. (2013),-5.13,-37.59,15/06/2009,,sowing
+16,Monasterolo et al. (2015),-31.1,-64,01/12/2010,,flowering
+16,Monasterolo et al. (2015),-31.1,-64,01/12/2010,,flowering
+16,Monasterolo et al. (2015),-31.1,-64,01/12/2010,,flowering
+16,Monasterolo et al. (2015),-31.1,-64,01/12/2010,,flowering
+16,Monasterolo et al. (2015),-31.1,-64,01/12/2010,,flowering
+16,Monasterolo et al. (2015),-31.1,-64,01/12/2010,,flowering
+17,Moretti et al. (1998),-22.92,-45.45,30/11/1993,,sowing
+17,Moretti et al. (1998),-22.92,-45.45,30/11/1993,,sowing
+17,Moretti et al. (1998),-22.92,-45.45,30/11/1993,,sowing
+17,Moretti et al. (1998),-22.92,-45.45,30/11/1993,,sowing
+17,Moretti et al. (1998),-22.92,-45.45,30/11/1993,,sowing
+18,Oliveira (2016),-22.2329,-54.98,05/11/2015,,sowing
+18,Oliveira (2016),-22.2329,-54.98,05/11/2015,,sowing
+18,Oliveira (2016),-22.2329,-54.98,05/11/2015,,sowing
+18,Oliveira (2016),-22.2329,-54.98,05/11/2015,,sowing
+19,Pando et al. (2019),10.585,14.298,18/06/2015,15/06/2018,sowing
+19,Pando et al. (2019),10.585,14.298,18/06/2015,15/06/2018,sowing
+19,Pando et al. (2019),10.585,14.298,18/06/2015,15/06/2018,sowing
+20,Santone (2017),-33.01,-60.55,26/01/2009,09/02/2009,flowering
+20,Santone (2017),-33.01,-60.54,26/01/2009,09/02/2009,flowering
+20,Santone (2017),-32.02,-60.53,26/01/2009,09/02/2009,flowering
+21,Santos et al. (2013),-33.6,-57.57,01/11/2016,01/11/2017,flowering
+21,Santos et al. (2013),-33.6,-57.57,01/11/2016,01/11/2017,flowering
+21,Santos et al. (2013),-33.6,-57.57,01/11/2016,01/11/2017,flowering
+22,Santos et al. (2019),-23.14,-51.19,01/11/2016,01/11/2017,flowering
+22,Santos et al. (2019),-23.14,-51.19,01/11/2016,01/11/2017,flowering
+22,Santos et al. (2019),-23.14,-51.19,01/11/2016,01/11/2017,flowering
+23,Taimanga & ?Tchuenguem Fohouo (2018),4.007,9.48,29/05/2009,23/06/2010,sowing
+23,Taimanga & ?Tchuenguem Fohouo (2018),4.007,9.48,29/05/2009,23/06/2010,sowing
+23,Taimanga & ?Tchuenguem Fohouo (2018),4.007,9.48,29/05/2009,23/06/2010,sowing
+24,Toledo et al. (2011),-21.1704,-47.81,,,
+24,Toledo et al. (2011),-21.1704,-47.81,,,
+24,Toledo et al. (2011),-21.1704,-47.81,,,
+24,Toledo et al. (2011),-21.1704,-47.81,,,
+24,Toledo et al. (2011),-21.1704,-47.81,,,
+24,Toledo et al. (2011),-21.1704,-47.81,,,
+24,Toledo et al. (2011),-21.1704,-47.81,,,
+24,Toledo et al. (2011),-21.1704,-47.81,,,
+24,Toledo et al. (2011),21.1704,-47.81,,,
+25,unpublished,-34.58,-59.55,,,
+25,unpublished,-33.01,-60.53,,,
+25,unpublished,31.08122053,-63.8,,,
+25,unpublished,31.08820389,-63.8,,,
+26,Zelaya et al. (2018),-26.99,-64.4,15/01/2015,,flowering
+26,Zelaya et al. (2018),-26.99,-64.4,15/01/2015,,flowering
+26,Zelaya et al. (2018),-26.99,-64.4,15/01/2015,,flowering
+26,Zelaya et al. (2018),-26.71,-64.2,15/01/2015,,flowering
+26,Zelaya et al. (2018),-26.71,-64.2,15/01/2015,,flowering
+26,Zelaya et al. (2018),-26.71,-64.2,15/01/2015,,flowering
+27,Huais et al. (2020),-31.01,-64.01,15/01/2015,,flowering
+28,?Dounia et al. (2020),10.62,14.33,12/03/2016,15/03/2017,sowing
+28,?Dounia et al. (2020),10.62,14.33,12/03/2016,15/03/2017,sowing
+28,?Dounia et al. (2020),10.62,14.33,12/03/2016,15/03/2017,sowing
+28,?Dounia et al. (2020),10.62,14.33,12/03/2016,15/03/2017,sowing
+28,?Dounia et al. (2020),10.62,14.33,12/03/2016,15/03/2017,sowing
+28,?Dounia et al. (2020),10.62,14.33,12/03/2016,15/03/2017,sowing
+28,?Dounia et al. (2020),10.62,14.33,12/03/2016,15/03/2017,sowing
