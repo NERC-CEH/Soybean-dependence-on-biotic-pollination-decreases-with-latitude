@@ -1,11 +1,11 @@
 # Soybean dependence on biotic pollination decreases with latitude
 
-Release of Datasets and R Scripts used to analyse and produce figures to accompany the acceptance of the paper 'Soybean dependence on biotic pollination decreases with latitude' in Agriculture, Ecosystems & Environment.
+Release of datasets and R scripts needed to analyse and produce figures to accompany the article 'Soybean dependence on biotic pollination decreases with latitude' accepted in Agriculture, Ecosystems & Environment, 24 January 2023.
 
 > *see data description below*
 
 ## Citation
-Cunha, N.L., Chacoff, N. P., Sáez, A., Schmucki, R., Galetto, L., Devoto, M., Carrasco, J., Mazzei, M. P., Castillo, S. E., Palacios, T. P., Vesprini, J. L., Agostini, K., Saraiva, A. M., Woodcock, B., Ollerton, J., & Aizen, M. A. (2023). Soybean dependence on biotic pollination decreases with latitude (Version 1.0.0) [Data and Computer code]. https://doi.org/10.5281/zenodo.TBC
+Cunha, N.L., Chacoff, N. P., Sáez, A., Schmucki, R., Galetto, L., Devoto, M., Carrasco, J., Mazzei, M.P., Castillo, S.E., Palacios, T.P., Vesprini, J.L., Agostini, K., Saraiva, A.M., Woodcock, B.A., Ollerton, J., & Aizen, M.A. (2023). Soybean dependence on biotic pollination decreases with latitude (Version 1.0.0) [Data and Computer code].
 
 
 ## Highlights
