@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/590862867.svg)](https://zenodo.org/badge/latestdoi/590862867)
 # Soybean dependence on biotic pollination decreases with latitude
 
 Release of datasets and R scripts needed to analyse and produce figures to accompany the article 'Soybean dependence on biotic pollination decreases with latitude' accepted in Agriculture, Ecosystems & Environment, 24 January 2023.
