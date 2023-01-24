@@ -40,7 +40,7 @@ authors:
   given-names: "Antônio M."
   orcid: "https://orcid.org/0000-0003-2283-1123"
 - family-names: "Woodcock"
-  given-names: "Ben"
+  given-names: "Ben A."
   orcid: "https://orcid.org/0000-0003-0300-9951"
 - family-names: "Ollerton"
   given-names: "Jeff"
@@ -50,6 +50,6 @@ authors:
   orcid: "https://orcid.org/0000-0001-9079-9749"
 title: "Soybean dependence on biotic pollination decreases with latitude"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2023-01-19
+doi: TBC
+date-released: 2023-01-24
 url: "https://github.com/NERC-CEH/Soybean-dependence-on-biotic-pollination-decreases-with-latitude"
