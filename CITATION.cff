@@ -50,6 +50,6 @@ authors:
   orcid: "https://orcid.org/0000-0001-9079-9749"
 title: "Soybean dependence on biotic pollination decreases with latitude"
 version: 1.0.0
-doi: 10.5281/zenodo.7565589
+doi: https://doi.org/10.5281/zenodo.7565589
 date-released: 2023-01-24
 url: "https://github.com/NERC-CEH/Soybean-dependence-on-biotic-pollination-decreases-with-latitude"
