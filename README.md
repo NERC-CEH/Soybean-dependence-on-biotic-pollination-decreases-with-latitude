@@ -1,6 +1,6 @@
 # Soybean dependence on biotic pollination decreases with latitude [Data and Computer code]
 
-Release of datasets and R scripts needed to analyse and produce figures to accompany the article 'Soybean dependence on biotic pollination decreases with latitude' accepted in Agriculture, Ecosystems & Environment, 24 January 2023.
+Release of Datasets and R scripts needed to reproduce the analyses and figures published in the article 'Soybean dependence on biotic pollination decreases with latitude', published in Agriculture, Ecosystems & Environment, Volume 347, 1 May 2023, 108376. https://doi.org/10.1016/j.agee.2023.108376
 
 > *see data and code description below*
 
@@ -46,7 +46,7 @@ Identifying large-scale patterns of variation in pollinator dependence (PD) in c
 	* Lat = latitude in decimal degrees
 	* Long = longitude in decimal degrees
 
-2 - [\[data\] Cunha et al. MS_soybean [date_photoperiod].csv](https://github.com/NERC-CEH/Soybean-dependence-on-biotic-pollination-decreases-with-latitude/blob/main/%5Bdata%5D%20Cunha%20et%20al.%20MS_soybean%20%5Bdate_photoperiod%5D.csv) is an coma separated file that 
+2 - [\[data\] Cunha et al. MS_soybean [date_photoperiod].csv](https://github.com/NERC-CEH/Soybean-dependence-on-biotic-pollination-decreases-with-latitude/blob/main/%5Bdata%5D%20Cunha%20et%20al.%20MS_soybean%20%5Bdate_photoperiod%5D.csv) is a comma-separated file that 
 	contains the information used in the R script [\[R script\] Cunha et al. AGEE - gee_temp_ts_extract.R](https://github.com/NERC-CEH/Soybean-dependence-on-biotic-pollination-decreases-with-latitude/blob/main/%5BR%20script%5D%20Cunha%20et%20al.%20AGEE%20-%20gee_temp_ts_extract.R) and produce Figure S2.
   
   - 2.1 The dataset contains the following variables:
